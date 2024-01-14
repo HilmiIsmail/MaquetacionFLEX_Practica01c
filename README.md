@@ -1,4 +1,4 @@
-# Catálogo de Fotos - Maquetación Flexbox
+# Catálogo de Fotos - Maquetación Flex
 
 ## Descripción del Proyecto
 
@@ -8,20 +8,20 @@ Este proyecto es una práctica de maquetación utilizando Flexbox. Presenta un c
 
 ### Desarrollo del Proyecto
 
-El proyecto consta de un archivo HTML (`index.html`) y un archivo de estilos CSS (`estilos.css`). Utiliza Flexbox para lograr una maquetación moderna y adaptable a diferentes dispositivos.
+El proyecto consta de un archivo HTML (`index.html`) y un archivo de estilos CSS (`estilos.css`). Utiliza Flex para lograr una maquetación moderna y adaptable a diferentes dispositivos.
 
 ### Despliegue
 
-Puedes ver la página desplegada [aquí](https://HilmiIsmail.github.io/MaquetacionFLEX_Practica01c/).
+Puedes ver la página desplegada [aquí](https://github.com/HilmiIsmail/MaquetacionFLEX_Practica01c).
 
 ### Construido con
 
 - HTML
-- CSS (Flexbox)
+- CSS (Flex)
 
 ### Versionado
 
-Este proyecto no tiene versiones oficiales.
+Sin versiones.
 
 ### Autores
 
@@ -33,4 +33,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ### Recursos Adicionales
 
-Visita la [página de GitHub](https://github.com/HilmiIsmail/MaquetacionFLEX_Practica01c) para más detalles.
+Visita mi [GitHub](https://github.com/HilmiIsmail) para más proyectos.
